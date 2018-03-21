@@ -1,0 +1,21 @@
+{
+  "name": "ys-pg-micro-router",
+  "version": "1.0.2",
+  "description": "application for ys-pg-micro-router",
+  "scripts": {
+    "dev": "NODE_ENV=dev node index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "ys-dbo": "^1.0.2",
+    "ys-middleware-router": "^1.0.0",
+    "ys-utils": "^1.0.10"
+  },
+  "plugin": {
+    "name": "router"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:yskit/ys-pg-micro-router.git"
+  }
+}
