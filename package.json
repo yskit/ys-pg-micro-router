@@ -1,6 +1,6 @@
 {
   "name": "ys-pg-micro-router",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "application for ys-pg-micro-router",
   "scripts": {
     "dev": "NODE_ENV=dev node index.js"
