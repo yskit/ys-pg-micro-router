@@ -1,11 +1,12 @@
 {
   "name": "ys-pg-micro-router",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "application for ys-pg-micro-router",
   "scripts": {
     "dev": "NODE_ENV=dev node index.js"
   },
   "dependencies": {
+    "debug": "^3.1.0",
     "fs-extra": "^5.0.0",
     "ys-dbo": "^1.0.2",
     "ys-middleware-router": "^1.0.0",
